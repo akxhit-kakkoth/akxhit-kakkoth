@@ -1,11 +1,10 @@
 Hi, I'm AKSHIT KAKKOTH 👋
 I am Final Year BE Student pursuing IT Engineering @ Sinhgad institute of technology, Pune.
 
-🔭 Frontend Developer 
 
-⭐ Languages - C/C++ | Python
+⭐ Languages - C/C++ | Java |Power BI |
 
-📊 Database - MongoDB | MySQL
+📊 Database - Python | MySQL
 
 ⚙️ Tools - Git | GitHub | VS Code 
 
